@@ -514,9 +514,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Default customization settings
     const defaultCustomisation = [
-        'https://raw.githubusercontent.com/saint-13/Linux_Dynamic_Wallpapers/refs/heads/main/Dynamic_Wallpapers/Adwaita/adwaita-day.jpg',  // Default background image
+        '/background.png',  // Default background image
         '#FFFFFF',          // Default primary color
-        '#496899',          // Default secondary color
+        '#233A5E',          // Default secondary color
         '1280'              // Default background resolution
     ].join('\n');
 
