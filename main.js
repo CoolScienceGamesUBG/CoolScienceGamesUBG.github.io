@@ -515,8 +515,8 @@ document.addEventListener('DOMContentLoaded', function () {
     // Default customization settings
     const defaultCustomisation = [
         '/background.png',  // Default background image
-        '#111E2C',          // Default primary color
-        '#58AAFC',          // Default secondary color
+        '#FFFFFF',          // Default primary color
+        '#244273',          // Default secondary color
         '1280'              // Default background resolution
     ].join('\n');
 
