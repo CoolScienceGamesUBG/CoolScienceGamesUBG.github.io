@@ -477,9 +477,9 @@ function fullscreenFunction2() {
 function applyStoredSettings() {
     // Preset values
     const presetBackgroundImage = '/background.png';
-    const presetPrimaryColor = '#111E2C';
-    const presetSecondaryColor = '#58AAFC';
-    const presetBackgroundRes = '100';
+    const presetPrimaryColor = '#FFFFFF';
+    const presetSecondaryColor = '#244273';
+    const presetBackgroundRes = '1280';
 
     // Get the "customisation" data from localStorage
     const customisationData = localStorage.getItem('customisation');
